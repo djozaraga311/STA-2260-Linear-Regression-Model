@@ -19,9 +19,7 @@ analysis.R — R script used to create the models
 
 report.pdf — written report of analysis and findings
 
-data/ — dataset used
-
-plots/ — diagnostic and summary visualizations
+movies.xlsx - Dataset used for this project
 
 
 

@@ -15,7 +15,7 @@ Using R, a single and multi predictor model were made to find what influences a 
 - Best Combination: Budget + Rating, having a significantly higher prediction power in comparison to the single predictor model
 
 # Files: 
-analysis.R — R script used to create the models
+project1.R — R script used to create the models
 
 report.pdf — written report of analysis and findings
 
